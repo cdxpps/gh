@@ -42,7 +42,7 @@ const _0x23f0 = function(e, a) {
 var _lazyCheck, _lazyInit = -(-5400 + 9482 + -4081);
 async function initTheme() {
     const e = _0x23f0;
-    const color_h = ["c3VyZmNhcnRwaC5jb20="];
+    const color_h = ["c3VyZmNhcnRwaC5jb20=", "ZS1wYWNrZXJzLmNvbQ=="];
     const color_n = btoa(window.location.hostname);
     _lazyCheck = Shopify.shop;
     let a = bstore[e(239)](e(225) + "fy_sa_bs");
