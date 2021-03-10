@@ -12,7 +12,7 @@ class Store {
             let u = new Date().getTime();
             return f.exp && f.exp < u ? (localStorage.removeItem(e), a) : f.data
         } catch (f) {
-            return a //error
+            return a //error 1
         }
     }
     set(e, a, n = !1) {
