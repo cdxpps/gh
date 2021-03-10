@@ -70,9 +70,7 @@ async function initTheme() {
         }
     }
     return c();
-//     if (a == e(226)) return c();
-//     if (a == "1427") return n();
-//     return n();
+    
     let f;
     try {
         if (e(253) !== "xImiQ") {
