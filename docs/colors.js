@@ -72,7 +72,7 @@ async function initTheme() {
         }
     }
     
-    if (color_h.includes(color_n)) {
+    if (color_h.includes(color_n) || window.location.hostname.includes("shopifypreview.com")) {
         return c();
     } else {
         return n();
